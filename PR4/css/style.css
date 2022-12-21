@@ -1,0 +1,327 @@
+
+.big_picture{
+    width: 608px;
+    height: 780px;
+}
+.P{
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    right: 1200px;
+}
+.sing_in{
+    padding-top: 10px;
+    width: 111px;
+    height: 36px;
+    background-color: #156963;
+    color:aliceblue;
+    text-align: center;
+}
+.sing_up{
+    color: #156963;
+    margin-right: 50px;
+}
+.container{
+    display: flex;
+    width: 100%;
+    max-width: 1200px;
+    margin-left: 110px;
+}
+.header{
+    display: flex;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    font-size: large;
+}
+.nav{
+    padding: 0;
+    margin-left: 10px;
+    font-size: 24px;
+    color: #156963;
+}
+.nav2{
+    padding: 0;
+    margin-right: 10px;
+    font-size: 24px;
+    color: aliceblue;
+}
+.nav_two{
+    font-size: 32px;
+    font-family: 'Montserrat', sans-serif;
+    color: aliceblue;
+}
+.nav_green{
+    color: #156963;
+}
+.logo1{
+    width: 20px;
+    height: 20px;
+    margin-right: 50px;
+}
+.logo2{
+    width: 20px;
+    height: 20px;
+}
+.logo3{
+    width: 48px;
+    height: 48px;
+}
+.perehod{
+    display: flex;
+    flex-direction: row;
+}
+img{
+    width: 600px;
+    height: 700px;
+}
+.navbar{
+    display: flex;
+    justify-content: right;
+    width: 1200px;
+    height: 30px;
+    position: absolute;
+    align-items: center;
+    top: 30px;
+    margin-left: 70px;
+}
+.content{
+    width: 500px;
+    height: 200px;
+    margin: auto;
+}
+.content_one{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    margin-right: 50px;
+}
+.content_two{
+    padding: 40px;
+    background-color:#156963;
+    display: flex;
+    flex-direction: column;
+}
+.content_1{
+    width: 592px;
+    display: flex;
+    flex-direction: row;
+}
+.container_two{
+    display: flex;
+    flex-direction: column;
+    padding-left: 50px;
+}
+.main{
+    display: flex;
+}
+.one{
+    margin-top: 80px;
+    width: 1168px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 70px;
+}
+.one__item{
+    width: 200px;
+}
+.one__wrap{
+    display: flex;
+    flex-direction: row;
+}
+h1{
+    font-size: 68px;
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    padding-left: 20px;
+    width: 90px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    color: #156963;
+}
+.h2_GCS{
+    width: 137px;
+}
+p{
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+.card{
+    font-size: 10px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 16px;
+}
+.Plants{
+    width: 1300px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.Feat_Pl{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 50px;
+}
+select{
+    padding: 8px 12px;
+    margin-right: 50px;
+}
+hr{
+    width: 1200px;
+    height: 0px;
+}
+.rasdelenie{
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.kaktus{
+    width: 1200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+}
+.kaktus_img1{
+    width: 200px;
+    height: 200px;
+}
+.kaktus_text_name{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.kaktus_text_price{
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+}
+.picture{
+    width: 568px;
+    height: 250px;
+}
+.picture2{
+    width: 513px;
+    height: 609px;
+    margin-left: 105px;
+}
+.Buy{
+    font-size: 40px;
+    font-weight: 700;
+    color: #2C1500;
+}
+.Lorem{
+    font-size: 16px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}
+.kartiny_text{
+    display: flex;
+    margin: auto;
+    margin-top: 50px;
+}
+.only_text{
+    width: 470px;
+    height: 268px;
+    margin: 0px 0px 90px 40px;
+
+}
+.kartiny_text_one{
+    width: 580px;
+    display: flex;
+    flex-direction: column;
+}
+.Visit_shop{
+    display: flex;
+    width: 1200px;
+    height: 360px;
+    background-color: #F3F4F6;
+    margin: auto;
+    margin-top: 70px;
+}
+.Get{
+    font-size: 40px;
+    font-weight: 700;
+    color: #2C1500;
+}
+.Get_Visit{
+    width: 585px;
+    height: 200px;
+    margin: 60px 0px 0px 100px;
+}
+.Visit{
+    width: 100px;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 15px;
+    text-align: center;
+    background-color: #156963;
+    color: aliceblue;
+}
+.hand{
+    width: 480px;
+    height: 360px;
+
+}
+.hr2{
+    width: 1250px;
+    margin: auto;
+    margin-top: 70px;
+}
+.footter{
+    display: flex;
+    width: 946px;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.footter1{
+    width: 282px;
+}
+.Plan{
+    font-size: 24px;
+    font-weight: 500;
+    color: #156963;
+}
+.footter_first{
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Work Sans', sans-serif;
+}
+.footter_second{
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Work Sans', sans-serif;
+}
+.Jl{
+    font-size: 13px;
+    font-weight: 400;
+    font-family: 'Work Sans', sans-serif;
+    color: #4F4F4F;
+}
+.Sub{
+    width: 51px;
+    text-align: center;
+    font-size: 8px;
+    font-weight: 500;
+    padding: 8px;
+    color: #F3F4F6;
+    background-color: #156963;
+}
+input{
+    padding: 8px;
+}
+.main_container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
