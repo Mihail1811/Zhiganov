@@ -1,0 +1,44 @@
+.navbar-brand{
+    width: 80px;
+    text-align: center;
+    text-decoration:underline;
+    font-size: 25px;
+    font-weight: 700;
+    color:brown;
+    border: 1px solid black;
+    padding: 4px;
+}
+.container-fluid{
+    border-radius: 5px;
+    background-color: aqua;
+}
+.btn-outline-success{
+    background-color: aliceblue;
+}
+li{
+    margin-left: 90px;
+}
+.carousel{
+    height: 600px;
+}
+.w-100{
+    height: 600px;
+}
+.card_two{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.card-top{
+    display: flex;
+    flex-direction: row;
+}
+
+h1, h2, h3, h4, h5, h6, p, a{
+    color: black;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
